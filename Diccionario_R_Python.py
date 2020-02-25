@@ -297,15 +297,5 @@ os.makedirs('dir1/dir2/dir3', exist_ok=True) #hacer varios a la vez, y no de err
 os.path.isdir('Favorites')
 
 
-
-Cambio 1
-Cambio 2
-Cambio 3
-Cambio 4
-Cambio 5
-
-
-
-
-
+camb
 
